@@ -1,14 +1,13 @@
 {
-  "name": "cixware/esewa-php-sdk",
+  "name": "sujanshresthanet/esewa-php-sdk",
   "type": "library",
   "description": "eSewa payment gateway integration in PHP.",
   "homepage": "https://developer.esewa.com.np",
   "license": "MIT",
   "authors": [
     {
-      "name": "Cixware",
-      "email": "support@cixware.io",
-      "homepage": "https://cixware.io"
+      "name": "Sujan Shrestha",
+      "homepage": "https://sujanshrestha.net"
     }
   ],
   "keywords": [
